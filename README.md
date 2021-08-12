@@ -1,2 +1,2 @@
-# Script_CSS_Scraper
-Web Scraper to extract Scripts and CSS Files from any Web Page Using Python
+# Web Scraper to fetch JS files, CSS Files and Images of any given web page
+
