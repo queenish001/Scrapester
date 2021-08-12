@@ -1,0 +1,8 @@
+https://www.w3schools.com/favicon.ico
+https://www.w3schools.com/lib/fonts/fontawesome.woff2?14663396
+https://www.w3schools.com/lib/fonts/source-code-pro-v14-latin-regular.woff2
+https://www.w3schools.com/lib/fonts/roboto-mono-v13-latin-500.woff2
+https://www.w3schools.com/lib/fonts/source-sans-pro-v14-latin-700.woff2
+https://www.w3schools.com/lib/fonts/source-sans-pro-v14-latin-600.woff2
+https://www.w3schools.com/lib/fonts/freckle-face-v9-latin-regular.woff2
+https://www.w3schools.com/lib/w3schools27.css

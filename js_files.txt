@@ -1,0 +1,4 @@
+https://cdn.snigelweb.com/sncmp/latest/sncmp_stub.min.js
+https://cdn.snigelweb.com/pub/w3schools.com/snhb-loader.min.js
+https://www.w3schools.com/lib/my-learning.js?v=1.0.2
+https://www.w3schools.com/lib/w3codecolor.js
